@@ -2,7 +2,7 @@
 
 /**
  ** print_times_table 
-      **/
+**/
 void print_times_table(int n)
 {
 int row, col;
@@ -42,6 +42,4 @@ if (col != n)
 _putchar(',');
 }
 _putchar('\n');
-}
-}
-}
+}}}
