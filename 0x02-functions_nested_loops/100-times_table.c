@@ -1,8 +1,7 @@
 #include "main.h"
-
 /**
- ** print_times_table 
-**/
+ * * print_times_table 
+   **/
 void print_times_table(int n)
 {
 int row, col;
